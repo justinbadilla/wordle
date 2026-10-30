@@ -1,6 +1,6 @@
 # Wordle
 
-A terminal Wordle clone in pure Python (3.10+, standard library only).
+A terminal Wordle clone in pure Python (3.10+, standard library only). Made to test Claude Code
 
 ## Play
 
